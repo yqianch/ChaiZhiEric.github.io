@@ -2,8 +2,6 @@
 
 [Jupyter] (http://chaizhi.space)
 
-> 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
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
